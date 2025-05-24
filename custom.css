@@ -1,0 +1,58 @@
+html, body {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    font-size: 18px;
+    background: linear-gradient(-45deg, #f25f59, #80d05b, #ccd0da, #FFFFFF);
+    background-size: 400% 400%;
+    animation: gradientShift 15s ease infinite;
+    justify-content: center;
+}
+
+@keyframes gradientShift {
+    0% {
+        background-position: 5% 50%;
+    }
+    50% {
+        background-position: 95% 50%;
+    }
+    100% {
+        background-position: 5% 50%;
+    }
+}
+
+.content {
+    padding: 40px;
+}
+
+/* Headers */
+h1, h2, h3 {
+    color: #2C3E50;
+    margin-bottom: 10px;
+}
+
+/* Image styles */
+img {
+    height: 200px;
+    margin: 10px;
+    border-radius: 8px;
+}
+
+/* Header and footer blocks */
+.colored-header, .colored-footer {
+    background-color: #F0F4F8;
+    padding: 20px;
+    text-align: center;
+}
+
+.colored-header {
+    margin-bottom: 40px;
+}
+
+.colored-footer {
+    margin-top: 60px;
+    font-size: 16px;
+    color: #777;
+}

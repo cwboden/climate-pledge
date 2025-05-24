@@ -1,4 +1,9 @@
-# Take the Climate Pledge!
+---
+title: "Take the Climate Pledge"
+---
+
+![](https://pngimg.com/uploads/earth/earth_PNG41.png)
+
 Here are a series of bite-sized actions you can take to improve the world around you. None of these are affiliate links, just ways for ***you*** to get involved!
 
 - Meet like-minded climate warriors at [Soapbox Project](www.soapboxproject.org)
